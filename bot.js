@@ -26,14 +26,25 @@ import { spawn } from "child_process";
 import path from "path";
 const cmdPath = path.join("C:", "Windows", "System32", "cmd.exe");
 import { ensureLogFiles, logManagerBot } from "./src/utils/io-json.js";
+import os from "os";
 
 let botProcess;
 
 function startBot() {
-  botProcess = spawn(cmdPath, ["/c", "npm start"], {
-    detached: true,
-    stdio: "ignore",
-  });
+  // Xác định platform
+  const isWindows = os.platform() === "win32";
+  if (isWindows) {
+    botProcess = spawn(cmdPath, ["/c", "npm start"], {
+      detached: true,
+      stdio: "ignore",
+    });
+  } else {
+    botProcess = spawn("npm", ["start"], {
+      detached: true,
+      stdio: "ignore",
+      shell: true,
+    });
+  }
   attachBotEvents(botProcess);
   botProcess.unref();
   logManagerBot("Bot started");
