@@ -1,0 +1,201 @@
+{
+  "cookie": {
+    "url": "https://chat.zalo.me",
+    "cookies": [
+      {
+        "domain": ".zalo.me",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__zi",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": "0",
+        "value": "3000.SSZzejyD6zOgdh2mtnLQWYQN_RAG01ICFjIXe9fEM8WwcEsWc4bPZ72Vww7MG5k9SvBge3Wv.1"
+      },
+      {
+        "domain": ".zalo.me",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__zi-legacy",
+        "path": "/",
+        "sameSite": "unspecified",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "3000.SSZzejyD6zOgdh2mtnLQWYQN_RAG01ICFjIXe9fEM8WwcEsWc4bPZ72Vww7MG5k9SvBge3Wv.1"
+      },
+      {
+        "domain": ".zalo.me",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "zoaw_sek",
+        "path": "/",
+        "sameSite": "unspecified",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "EQH9.1202726768.2.vt-umd39BOC0xft4SCajWt39BODmoIs3SPiUxXZ9BOC"
+      },
+      {
+        "domain": ".zalo.me",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "zoaw_type",
+        "path": "/",
+        "sameSite": "unspecified",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "0"
+      },
+      {
+        "domain": ".zalo.me",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": "unspecified",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "GA1.2.1862219286.1752515270"
+      },
+      {
+        "domain": ".zalo.me",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_gid",
+        "path": "/",
+        "sameSite": "unspecified",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "GA1.2.72268216.1752515270"
+      },
+      {
+        "domain": ".zalo.me",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_zlang",
+        "path": "/",
+        "sameSite": "unspecified",
+        "secure": true,
+        "session": false,
+        "storeId": "0",
+        "value": "vn"
+      },
+      {
+        "domain": ".zalo.me",
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "app.event.zalo.me",
+        "path": "/",
+        "sameSite": "unspecified",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "7977129317645219645"
+      },
+      {
+        "domain": ".zalo.me",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_gcl_au",
+        "path": "/",
+        "sameSite": "unspecified",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "1.1.74936809.1752599762"
+      },
+      {
+        "domain": ".zalo.me",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_fbp",
+        "path": "/",
+        "sameSite": "unspecified",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "fb.1.1752599762259.359392430580783885"
+      },
+      {
+        "domain": ".zalo.me",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_gat",
+        "path": "/",
+        "sameSite": "unspecified",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "1"
+      },
+      {
+        "domain": ".zalo.me",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga_NVN38N77J3",
+        "path": "/",
+        "sameSite": "unspecified",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "GS2.2.s1752599764$o1$g1$t1752599829$j60$l0$h0"
+      },
+      {
+        "domain": ".zalo.me",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga_E63JS7SPBL",
+        "path": "/",
+        "sameSite": "unspecified",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "GS2.1.s1752599761$o1$g1$t1752599831$j56$l0$h0"
+      },
+      {
+        "domain": ".zalo.me",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga_RYD7END4JE",
+        "path": "/",
+        "sameSite": "unspecified",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "GS2.2.s1752688868$o6$g1$t1752688883$j45$l0$h0"
+      },
+      {
+        "domain": ".zalo.me",
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "zpsid",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": "0",
+        "value": "dRQ8.441046610.1.Rq6V6DgOXzA8Jix8rfY7qg_hzURkgRVcxAwsul3kyKIKavdgsoaRfBAOXz8"
+      },
+      {
+        "domain": ".chat.zalo.me",
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "zpw_sek",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": "0",
+        "value": "n5Xq.441046610.a0.hnEYvGzKKW9TWXiOBbHI0dHsDsajRd0nFI0cBLTdDaDCOnPCJ2m6UZXbD4jUQMyWSduaT9aQMHmtLUEUUJnI0W"
+      }
+    ]
+  },
+  "imei": "f8cd0a3a-aac3-4aef-93d0-27ba45da05b6-13f9b39e1c7bbe052f30aa45b7063f60",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"
+}
